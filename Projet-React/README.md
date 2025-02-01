@@ -1,8 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation et Lancement
 
-Currently, two official plugins are available:
+1. **Installer les dépendances** :
+   ```bash
+   npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Lancer le serveur en local**:
+    ```bash
+    npm run dev #acces au localhost 3000
+
+3. **Lancer le serveur de développement**:
+    ```bash
+    npm run build 
+
+4. **Lancer la version construite**:
+    ```bash
+    npm run preview
+
+
+
+
+
+
